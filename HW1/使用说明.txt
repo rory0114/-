@@ -1,0 +1,3 @@
+在python中装有os，sys，opencv，numpy，getopt等模块
+命令行cd到文件夹，运行 python HW1.py xxx/xxx
+就可以打开里面的图像和视频
